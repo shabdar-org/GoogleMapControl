@@ -1,0 +1,7 @@
+This program is released under GNU General Public License
+
+Please visit,
+
+http://www.gnu.org/copyleft/gpl.html
+
+for license details and more information.
