@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <h2>Google Maps User Control for ASP.Net</h2>
+        <h2>Google Maps User Control for ASP.Net -></h2>
         <h3>Samples</h3>
         <ul>
         <li><a href="SimpleMapWithNoBubble.aspx">Simple Google Map</a></li>
