@@ -1,0 +1,2 @@
+Google map control is an ascx control that you can place in your asp.net web page. It allows you to display google map in a web page without writing any complex javascript api code. Google map control is a wrapper to Google Maps javascript APIs. By setting various properties for this control in C# you can easily render map on ASP.net web page. Look at various examples provided with source.
+for more details visit https://shabdar.org/2017/01/24/google-maps-control-for-aspnet-part-1/
